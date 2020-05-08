@@ -1,0 +1,12 @@
+button{
+    background-color: lightgrey;
+    height:30px;
+    width:100px;
+}
+input{
+    width:500px;
+    height:30px;
+}
+p{
+    color:dodgerblue;
+}
